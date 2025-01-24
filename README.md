@@ -3,11 +3,11 @@
 The following is a summative assignment submitted to the class "Applied Analytical Statistics" taught by Adam Mahdi - data, code and final write up are all available as part of this repository.
 
 **Parts of the notebook**
-1. Preprocessing: Cut certain columns, combine others and impute missing data
-2. Preliminaty models and visualizations: Graph relevant variable distributions and get some insights on general trends
-3. Fixed-effects model: Fit a linear regression with and without relevant controls
-4. Multilevel model: Fit a multilevle model with random slopes and random intercepts for 12 to model the trend at a sub-national level
-5. Testing underlying assumptions: Conduct test for linearity, multicolinearity, homoscedasitcity, independence of residuals, normally distributed residuals.
+1. Preprocessing: Deletes certain columns, combines others and imputes missing data.
+2. Preliminaty models and visualizations: Provides insights into variable distributions and overarching trends.
+3. Fixed-effects model: Fits a linear regression with and without demographic controls.
+4. Multilevel model: Fits a multilevle model with random slopes and random intercepts for 12 regions in the UK to model the trend at a sub-national level
+5. Tests for underlying assumptions: Conducts test for linearity, multicolinearity, homoscedasitcity, independence of residuals and normal distribution of residuals.
 
 **Abstract**
 
