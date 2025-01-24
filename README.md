@@ -1,4 +1,4 @@
-# Does the experienced rate of inflation varies with income?
+# Does the experienced rate of inflation vary with income?
 
 The following is a summative assignment submitted to the class "Applied Analytical Statistics" taught by Adam Mahdi - data, code and final write up are all available as part of this repository.
 
