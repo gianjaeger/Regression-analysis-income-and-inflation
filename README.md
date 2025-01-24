@@ -2,7 +2,7 @@
 
 The following was completed submitted as a summative assignment for the class "Applied Analytical Statistics" taught by Adam Mahdi - data, code and final write up are all available as part of this repository.
 
-**Key parts in the notebook**
+**Parts of the notebook**
 1. Preprocessing: Cut certain columns, combine others and impute missing data
 2. Preliminaty models and visualizations: Graph relevant variable distributions and get some insights on general trends
 3. Fixed-effects model: Fit a linear regression with and without relevant controls
