@@ -1,6 +1,6 @@
 # Statistical analysis into how the experienced rate of inflation varies with income
 
-The following was completed submitted as a summative assignment for the class "Applied Analytical Statistics" taught by Adam Mahdi - data, code and final write up are all available as part of this repository.
+The following is a summative assignment submitted to the class "Applied Analytical Statistics" taught by Adam Mahdi - data, code and final write up are all available as part of this repository.
 
 **Parts of the notebook**
 1. Preprocessing: Cut certain columns, combine others and impute missing data
