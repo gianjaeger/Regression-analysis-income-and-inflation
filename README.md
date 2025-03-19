@@ -1,7 +1,5 @@
 # Does the experienced rate of inflation vary with income?
 
-The following is a summative assignment submitted to the class "Applied Analytical Statistics" taught by Adam Mahdi - data, code and the final write up are all available as part of this repository.
-
 **Parts of the notebook**
 1. Preprocessing: Deletes certain columns, combines others and imputes missing data.
 2. Preliminaty models and visualizations: Provides insights into variable distributions and overarching trends.
